@@ -3,7 +3,8 @@
 This repo is to be used as an example only and has been generated as a means of testing
 and communicating the standard structure of a repo in data engineering.
 
-⚠️ **This is not a template repo.**  The files in this repo have been generated to 
+⚠️ **This is not a template repo.** ⚠
+The files in this repo have been generated to 
 highlight the directory structure, the contents of each file is less important.
 There is no meaningful functionality in this repo whatsoever.
 
